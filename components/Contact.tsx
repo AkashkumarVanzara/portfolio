@@ -16,7 +16,7 @@ const links = [
     icon: Mail,
     label: "Email",
     handle: "u2524845@gmail.com",
-    href: "mailto:u2524845@gmail.com",
+    href: "mailto:akashvanzara0911@gmail.com",
     color: "hover:border-[#a78bfa]/30 hover:text-[#a78bfa]",
   },
   {
